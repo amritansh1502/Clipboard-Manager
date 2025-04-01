@@ -1,10 +1,10 @@
-Clipboard Manager Chrome Extension
+**Clipboard Manager Chrome Extension**
 
-Overview
+**Overview**
 
 This Chrome extension helps users manage their clipboard history by saving copied text and providing easy access to previous clipboard entries. It automatically captures copied text from any webpage and stores it for later use.
 
-Features
+**Features**
 
 Clipboard History Storage: Automatically saves copied text.
 
